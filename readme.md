@@ -1,3 +1,6 @@
+https://colab.research.google.com/github/GouravSolanki-Dev/Exploratory-Data-Analysis-with-Seaborn/blob/main/seaborn.ipynb
+
+
 <h2 align=center>Tumor Diagnosis (Part 1): Exploratory Data Analysis</h2>
 <img src="https://storage.googleapis.com/kaggle-datasets-images/180/384/3da2510581f9d3b902307ff8d06fe327/dataset-cover.jpg">
 
